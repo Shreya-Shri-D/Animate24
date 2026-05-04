@@ -1,6 +1,6 @@
 # Animate24
 
-Short 2D animation project built in **Synfig Studio**, created for an MSc TCS course. The piece uses **UN Sustainable Development Goal 13 (Climate Action)** as its theme, following a simple narrative about rising water, place, and people.
+Short 2D animation project built in **Synfig Studio**, created for ANIMATE 2024 online 2D animation hackathon organized by FOSSEE, IIT Bombay. The piece uses **UN Sustainable Development Goal 13 (Climate Action)** as its theme, following a simple narrative about rising water, place, and people. This project was recognised as Good Submission under Climate Action - AI Images.
 
 ## What’s in this repo
 
